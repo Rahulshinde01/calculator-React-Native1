@@ -2,7 +2,7 @@
 **App Screens:**<br>
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github.com/Rahulshinde01/calculator-React-Native1/blob/main/calculatorImage1.jpeg" alt="Calculator Overview" width="45%" />
-  <img src="  https://github.com/Rahulshinde01/calculator-React-Native1/blob/main/calculatorImage2.jpeg" alt="Calculator Overview" width="45%" />
+  <img src="ttps://github.com/Rahulshinde01/calculator-React-Native1/blob/main/calculatorImage2.jpeg" alt="Calculator Overview" width="45%" />
   
 </div>
 
