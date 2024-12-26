@@ -1,8 +1,9 @@
 # Calculator using React Native
 **App Screens:**<br>
-[calculatorImage1](https://drive.google.com/file/d/1yf0RwYjNX1rI2loJHqad9yfrgFXQA9s2/view?usp=drive_link)
-
-[calculatorImage2](https://drive.google.com/file/d/1ysecFr0JclYNqWo0xaiGBJE74xvZHHfd/view?usp=sharing)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="[https://github.com/PrashantDesale2004/React-Naive-Calculator/blob/main/CalByPrashant.jpeg](https://github.com/Rahulshinde01/calculator-React-Native1/blob/main/calculatorImage1.jpeg)" alt="Calculator Overview" width="45%" />
+  
+</div>
 
 
 **How to run the app on your local Device:**
